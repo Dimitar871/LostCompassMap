@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Except the built mod JAR
+!build/
+!build/libs/
+!build/libs/lostcompass-map-*.jar
+build/libs/*-sources.jar
+
+# Keep git files
+!.gitignore
+!README.md
