@@ -5,9 +5,9 @@ A Fabric mod that adds a minimap and full-screen map for the LostCompass server,
 
 ## Requirements
 
-- Minecraft **1.21.10** (Java Edition)
+- Minecraft **1.21.11** (Java Edition)
 - [Fabric Loader](https://fabricmc.net/use/installer/) (0.16.10+)
-- [Fabric API](https://modrinth.com/mod/fabric-api) (0.138.4+1.21.10)
+- [Fabric API](https://modrinth.com/mod/fabric-api)
 
 ## Installation
 
