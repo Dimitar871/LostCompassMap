@@ -1,3 +1,4 @@
+
 # LostCompass Map Mod
 
 A Fabric mod that adds a minimap and full-screen map for the LostCompass server, pulling tiles from [map.lostcompass.world](https://map.lostcompass.world/).
