@@ -1,0 +1,7 @@
+{
+  "category.lostcompassmap.keys": "LostCompass Map",
+  "key.lostcompassmap.open_map": "Open Full Map",
+  "key.lostcompassmap.toggle_minimap": "Toggle Minimap",
+  "key.lostcompassmap.zoom_in": "Zoom In (Minimap)",
+  "key.lostcompassmap.zoom_out": "Zoom Out (Minimap)"
+}

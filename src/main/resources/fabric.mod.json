@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "lostcompassmap",
+  "version": "${version}",
+  "name": "LostCompass Map",
+  "description": "Displays the LostCompass Squaremap as an in-game overlay with minimap and fullscreen view.",
+  "authors": [
+    "LostCompass"
+  ],
+  "contact": {
+    "homepage": "https://lostcompass.world"
+  },
+  "license": "MIT",
+  "icon": "assets/lostcompassmap/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.lostcompass.mapmod.client.LostCompassMapClient"
+    ]
+  },
+  "mixins": [
+    "lostcompassmap.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "minecraft": "~${minecraft_version}",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
