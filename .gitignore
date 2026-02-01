@@ -1,12 +1,23 @@
-# Ignore everything
-*
+# Build output
+build/
+.gradle/
 
-# Except the built mod JAR
-!build/
-!build/libs/
-!build/libs/lostcompass-map-*.jar
-build/libs/*-sources.jar
+# IDE
+.idea/
+*.iml
+.vscode/
+*.launch
+.classpath
+.project
+.settings/
 
-# Keep git files
-!.gitignore
-!README.md
+# Runtime
+run/
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+nul
